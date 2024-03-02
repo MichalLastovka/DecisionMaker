@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DecisionMaker</string>
+    <string name="developer_signature">Developed by Michal Lastovka in 2024</string>
+    <string name="developer_email_contact">lasmich@protonmail.com</string>
+</resources>
